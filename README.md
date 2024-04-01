@@ -1,13 +1,11 @@
-# ELEN90077 2023 Workshop - Week5 "Operating Envelopes"
+The Basics of Operating Envelopes
 
-This ELEN90077 2023 workshop will be developed in week 5.
-
-The objectives of this workshop are:
+The objectives of this tutorial are:
 1. To familiarise with the process by which power engineers can calculate operating envelopes to facilitate exports/imports from customers whilst ensuring that voltages and asset utilisation are within limits.
 
 2. To continue familiarising with the advanced tool [OpenDSS](https://www.epri.com/pages/sa/opendss) (using Python and the [dss_python](https://github.com/dss-extensions/dss_python) module module). And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
-All the instructions on how to download the files and install all the necessary tools to perform this workshop are included on Canvas. Make sure you have installed Anaconda, the dss_python module, etc. as specified on Canvas. Otherwise, you will not be able to go through the workshop.
+Make sure you have installed Anaconda, the dss_python module, etc. as specified on Canvas. Otherwise, you will not be able to go through the workshop.
 
 1. Download all the files using the green **`<> Code`** button at the top right.
    - You will get a ZIP file with a folder that contains all the files.
