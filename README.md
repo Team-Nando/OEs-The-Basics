@@ -1,4 +1,4 @@
-The Basics of Operating Envelopes
+Operating Envelopes - The Basics
 
 The objectives of this tutorial are:
 1. To familiarise with the process by which power engineers can calculate operating envelopes to facilitate exports/imports from customers whilst ensuring that voltages and asset utilisation are within limits.
