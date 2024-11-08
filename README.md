@@ -5,6 +5,13 @@ The objectives of this tutorial are:
 
 2. To continue familiarising with the advanced tool [OpenDSS](https://www.epri.com/pages/sa/opendss) (using Python and the [dss_python](https://github.com/dss-extensions/dss_python) module module). And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
+## Run the Code
+Choose one of the options below to run the code.
+
+### A. Cloud Option ☁️: Google Colab
+Just click on the badge <a target="_blank" href="https://colab.research.google.com/github/Team-Nando/OEs-The-Basics/blob/main/OperatingEnvelopes.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"/></a>. You don't need to install anything 🤓💪.
+
+### B. Local Option 💻: Jupyter Notebook 
 Make sure you have installed Anaconda, the dss_python module, etc. as specified on Canvas. Otherwise, you will not be able to go through the workshop.
 
 1. Download all the files using the green **`<> Code`** button at the top right.
@@ -22,10 +29,9 @@ Enjoy!
 
 ## Credits
 
-Angela Simonovska (asimonovska@student.unimelb.edu.au)
-
-Eshan Karunarathne (akarunarathn@student.unimelb.edu.au)
-
+Angela Simonovska (asimonovska@student.unimelb.edu.au) <br>
+Eshan Karunarathne (akarunarathn@student.unimelb.edu.au) <br>
+Andres Avila Rojas (aavilarojas@student.unimelb.edu.au) <br> 
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
 ## Acknowledgement
